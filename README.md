@@ -1,110 +1,160 @@
-🛠️ ToolsHexa
+<div align="center">
 
-One Platform. Countless Possibilities.
+# 🛠️ ToolsHexa
 
-<p align="center">
-  A powerful collection of online utilities designed to simplify everyday digital tasks.
-</p><p align="center">
-  <a href="https://toolshexa.kesug.com/">
-    <img src="https://img.shields.io/badge/LIVE_WEBSITE-Visit_ToolsHexa-2563EB?style=for-the-badge" alt="Visit ToolsHexa">
-  </a>
-  <img src="https://img.shields.io/badge/PROJECT-TOOLS-8B5CF6?style=for-the-badge" alt="Project">
-  <img src="https://img.shields.io/badge/MADE_BY-YUVHEXA-111827?style=for-the-badge" alt="Made by YuvHexa">
-</p>---
+### ONE PLATFORM. COUNTLESS POSSIBILITIES.
 
-🚀 About ToolsHexa
+A modern all-in-one platform bringing useful online utilities together.
 
-ToolsHexa is an all-in-one online tools platform developed to bring useful digital utilities together in one convenient destination.
+<br>
 
-Instead of visiting multiple websites for different everyday tasks, users can access a collection of tools through one unified platform.
+<a href="https://toolshexa.kesug.com/">
+  <img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-ToolsHexa-2563EB?style=for-the-badge" alt="Live Website">
+</a>
 
-Built with a focus on simplicity, accessibility, and a modern user experience, ToolsHexa aims to make everyday online tasks easier and more efficient.
+<img src="https://img.shields.io/badge/DEVELOPED_BY-YUVHEXA-111827?style=for-the-badge" alt="YuvHexa">
 
-«Our Vision: Make useful digital tools accessible from one place.»
+</div>
 
 ---
 
-🌐 Explore ToolsHexa
+# 🚀 INTRODUCTION
 
-<p align="center">
-  <a href="https://toolshexa.kesug.com/">
-    <img src="https://img.shields.io/badge/OPEN_TOOLSHEXA-Explore_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open ToolsHexa">
-  </a>
-</p>Live Website: https://toolshexa.kesug.com/
+**ToolsHexa** is an all-in-one online tools platform designed to make everyday digital tasks simpler, faster, and more accessible.
 
----
+The platform brings multiple useful utilities together under one roof, eliminating the need to visit different websites for different tasks.
 
-📸 Screenshots & Interface Preview
+With a focus on convenience, responsive design, and a clean user interface, ToolsHexa aims to deliver a smooth digital experience.
 
-01 — Mobile Experience
-
-<p align="center">
-  <img src="https://i.postimg.cc/tCXxd0v4/IMG-20261124-155555.jpg" alt="ToolsHexa Mobile View" width="65%">
-</p>02 — Homepage
-
-<p align="center">
-  <img src="https://i.postimg.cc/1tG86MpP/IMG-20261124-155609.jpg" alt="ToolsHexa Homepage" width="90%">
-</p>03 — Additional Interface Preview
-
-<p align="center">
-  <img src="https://i.postimg.cc/RVVW67qS/IMG-20261124-155620.jpg" alt="ToolsHexa Additional Preview" width="90%">
-</p>---
-
-✨ Key Features
-
-Feature| Description
-🧰 All-in-One Platform| Multiple utilities accessible from one destination
-⚡ Convenient Access| Quickly access useful online tools
-📱 Responsive Interface| Designed for different screen sizes
-🎨 Modern UI| Clean and consistent visual experience
-🧭 Simple Navigation| Easy-to-understand interface
-🔄 Continuous Development| Scope for new tools and improvements
+> **Our Mission:** Making everyday digital utilities accessible through one powerful platform.
 
 ---
 
-💻 Technology Stack
+# 🌐 EXPLORE THE PLATFORM
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>---
+<div align="center">
 
-🎯 Project Objectives
+<a href="https://toolshexa.kesug.com/">
+  <img src="https://img.shields.io/badge/OPEN_TOOLSHЕXA-EXPLORE_NOW-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore ToolsHexa">
+</a>
 
-- Build a convenient destination for everyday online utilities.
-- Deliver a smooth and accessible user experience.
-- Make the platform usable across different devices.
-- Expand the collection of tools over time.
-- Maintain a consistent and modern interface.
+### [🔗 https://toolshexa.kesug.com/](https://toolshexa.kesug.com/)
+
+</div>
 
 ---
 
-🛣️ Future Roadmap
+# 📸 SCREENSHOTS & PREVIEW
 
-- [ ] Expand the collection of available utilities.
-- [ ] Improve overall performance.
-- [ ] Enhance accessibility and usability.
-- [ ] Introduce additional customization features.
-- [ ] Continue refining the mobile experience.
+### 📱 MOBILE EXPERIENCE
+
+<div align="center">
+  <img src="https://i.postimg.cc/tCXxd0v4/IMG-20261124-155555.jpg" width="65%" alt="ToolsHexa Mobile Experience">
+</div>
+
+### 🖥️ HOMEPAGE
+
+<div align="center">
+  <img src="https://i.postimg.cc/1tG86MpP/IMG-20261124-155609.jpg" width="100%" alt="ToolsHexa Homepage">
+</div>
+
+### ✨ ADDITIONAL PREVIEW
+
+<div align="center">
+  <img src="https://i.postimg.cc/RVVW67qS/IMG-20261124-155620.jpg" width="100%" alt="ToolsHexa Interface Preview">
+</div>
 
 ---
 
-🏢 Developed & Maintained By
+# ✨ PLATFORM HIGHLIGHTS
 
-<p align="center">
-  <b>YuvHexa</b><br>
-  <i>Building Digital Experiences. Creating What's Next.</i>
-</p><p align="center">
-  <a href="https://github.com/yuvhexa">GitHub</a> •
-  <a href="https://www.linkedin.com/in/yuvhexa/">LinkedIn</a>
-</p>📩 Contact: yuvhexa@gmail.com
+| FEATURE | DESCRIPTION |
+|:---|:---|
+| 🧰 All-in-One Utilities | Multiple useful tools in one destination |
+| ⚡ Quick Access | Convenient access to online utilities |
+| 📱 Responsive Design | Designed for mobile, tablet and desktop |
+| 🎨 Modern Interface | Clean and consistent user interface |
+| 🧭 Easy Navigation | Simple and accessible navigation |
+| 🔄 Continuous Development | Designed for future expansion |
 
 ---
 
-<p align="center">
-  <b>ToolsHexa</b><br>
-  One Platform. Countless Possibilities.
-  <br><br>
-  © 2026 ToolsHexa by YuvHexa
-</p>
+# 💻 TECHNOLOGY STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-Functionality-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+</div>
+
+---
+
+# 🎯 PROJECT VISION
+
+ToolsHexa is built around a simple idea:
+
+**Useful tools should be easy to find, easy to access, and easy to use.**
+
+Our objectives include:
+
+- Bringing everyday utilities into one platform.
+- Improving accessibility across devices.
+- Delivering a convenient user experience.
+- Expanding the collection of available tools.
+- Continuously improving platform performance.
+
+---
+
+# 🛣️ FUTURE ROADMAP
+
+- [ ] Introduce additional online utilities.
+- [ ] Improve platform performance.
+- [ ] Enhance mobile experience.
+- [ ] Introduce more customization options.
+- [ ] Continue improving accessibility and usability.
+
+---
+
+# 🏢 ABOUT YUVHEXA
+
+<div align="center">
+
+### YuvHexa
+
+**BUILDING DIGITAL EXPERIENCES. CREATING WHAT'S NEXT.**
+
+An initiative focused on building useful digital products and technology-driven experiences.
+
+<br>
+
+<a href="https://github.com/yuvhexa">
+  <img src="https://img.shields.io/badge/GitHub-YuvHexa-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/yuvhexa/">
+  <img src="https://img.shields.io/badge/LinkedIn-YuvHexa-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="mailto:yuvhexa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_YuvHexa-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛠️ ToolsHexa
+
+### ONE PLATFORM. COUNTLESS POSSIBILITIES.
+
+**© 2026 ToolsHexa by YuvHexa**
+
+</div>
