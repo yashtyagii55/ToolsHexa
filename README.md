@@ -1,10 +1,12 @@
 🛠️ ToolsHexa
 
-<h3 align="center">One Platform. Countless Possibilities.</h3><p align="center">
+One Platform. Countless Possibilities.
+
+<p align="center">
   A powerful collection of online utilities designed to simplify everyday digital tasks.
 </p><p align="center">
   <a href="https://toolshexa.kesug.com/">
-    <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_ToolsHexa-2563EB?style=for-the-badge" alt="Visit ToolsHexa">
+    <img src="https://img.shields.io/badge/LIVE_WEBSITE-Visit_ToolsHexa-2563EB?style=for-the-badge" alt="Visit ToolsHexa">
   </a>
   <img src="https://img.shields.io/badge/PROJECT-TOOLS-8B5CF6?style=for-the-badge" alt="Project">
   <img src="https://img.shields.io/badge/MADE_BY-YUVHEXA-111827?style=for-the-badge" alt="Made by YuvHexa">
@@ -18,7 +20,9 @@ Instead of visiting multiple websites for different everyday tasks, users can ac
 
 Built with a focus on simplicity, accessibility, and a modern user experience, ToolsHexa aims to make everyday online tasks easier and more efficient.
 
-Our vision: Make useful digital tools accessible from one place.
+«Our Vision: Make useful digital tools accessible from one place.»
+
+---
 
 🌐 Explore ToolsHexa
 
@@ -26,24 +30,27 @@ Our vision: Make useful digital tools accessible from one place.
   <a href="https://toolshexa.kesug.com/">
     <img src="https://img.shields.io/badge/OPEN_TOOLSHEXA-Explore_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open ToolsHexa">
   </a>
-</p>🔗 Live Website: https://toolshexa.kesug.com/
+</p>Live Website: https://toolshexa.kesug.com/
 
 ---
 
 📸 Screenshots & Interface Preview
 
+01 — Mobile Experience
+
 <p align="center">
-  <b>01 — Mobile Experience</b><br>
-  <img src="https://i.postimg.cc/tCXxd0v4/IMG-20261124-155555.jpg" alt="ToolsHexa Mobile View" width="48%">
-</p><p align="center">
-  <b>02 — Homepage</b><br>
-  <img src="https://i.postimg.cc/1tG86MpP/IMG-20261124-155609.jpg" alt="ToolsHexa Homepage" width="85%">
-</p><p align="center">
-  <b>03 — Additional Interface Preview</b><br>
-  <img src="https://i.postimg.cc/RVVW67qS/IMG-20261124-155620.jpg" alt="ToolsHexa Additional Preview" width="85%">
+  <img src="https://i.postimg.cc/tCXxd0v4/IMG-20261124-155555.jpg" alt="ToolsHexa Mobile View" width="65%">
+</p>02 — Homepage
+
+<p align="center">
+  <img src="https://i.postimg.cc/1tG86MpP/IMG-20261124-155609.jpg" alt="ToolsHexa Homepage" width="90%">
+</p>03 — Additional Interface Preview
+
+<p align="center">
+  <img src="https://i.postimg.cc/RVVW67qS/IMG-20261124-155620.jpg" alt="ToolsHexa Additional Preview" width="90%">
 </p>---
 
-✨ Key Highlights
+✨ Key Features
 
 Feature| Description
 🧰 All-in-One Platform| Multiple utilities accessible from one destination
@@ -53,19 +60,25 @@ Feature| Description
 🧭 Simple Navigation| Easy-to-understand interface
 🔄 Continuous Development| Scope for new tools and improvements
 
+---
+
 💻 Technology Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>🎯 Project Objectives
+</p>---
+
+🎯 Project Objectives
 
 - Build a convenient destination for everyday online utilities.
 - Deliver a smooth and accessible user experience.
 - Make the platform usable across different devices.
 - Expand the collection of tools over time.
 - Maintain a consistent and modern interface.
+
+---
 
 🛣️ Future Roadmap
 
@@ -74,6 +87,8 @@ Feature| Description
 - [ ] Enhance accessibility and usability.
 - [ ] Introduce additional customization features.
 - [ ] Continue refining the mobile experience.
+
+---
 
 🏢 Developed & Maintained By
 
